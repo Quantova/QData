@@ -1,0 +1,6 @@
+node_modules/
+*.qdata.json
+*.pending.json
+*.key
+.env*
+native/target/
