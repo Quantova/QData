@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qdata",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Post quantum private data store attestations. Proves the register, commit, access, retention and erasure records of a private data store, with ML-DSA-65 under FIPS 204 and Quantova time proofs. Only a salted commitment leaves the party that holds the data.",
   "main": "index.js",
   "types": "index.d.ts",
